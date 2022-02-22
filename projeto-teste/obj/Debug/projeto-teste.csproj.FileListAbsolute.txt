@@ -1,0 +1,8 @@
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\bin\Debug\projeto-teste.exe.config
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\bin\Debug\projeto-teste.exe
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\bin\Debug\projeto-teste.pdb
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csproj.AssemblyReference.cache
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csproj.SuggestedBindingRedirects.cache
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\obj\Debug\projeto-teste.csproj.CoreCompileInputs.cache
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\obj\Debug\projeto-teste.exe
+D:\Desenvolvimento\vs2022\projeto-teste\projeto-teste\obj\Debug\projeto-teste.pdb
